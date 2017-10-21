@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 usei o piVPN
 
@@ -6,6 +6,6 @@ usei o piVPN
 
 
 
-#Port forwarding 
+# Port forwarding 
 - check if port is opened and working
 https://www.yougetsignal.com/tools/open-ports/
